@@ -1,0 +1,7 @@
+tmp/*
+Weights/*
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
